@@ -6,4 +6,5 @@ class Test {
   }
   eat() {}
   sleep() {}
+  sing() {}
 }
