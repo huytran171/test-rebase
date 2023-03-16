@@ -4,4 +4,5 @@ class Test {
     this.age = 23;
   }
   eat() {}
+  sleep() {}
 }
