@@ -1,3 +1,5 @@
 class Test {
-  constructor() {}
+  constructor() {
+    this.name = "Huy";
+  }
 }
