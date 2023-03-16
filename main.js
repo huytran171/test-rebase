@@ -3,4 +3,5 @@ class Test {
     this.name = "Huy";
     this.age = 23;
   }
+  eat() {}
 }
