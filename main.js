@@ -5,4 +5,5 @@ class Test {
     this.addr = "Hanoi";
   }
   eat() {}
+  sleep() {}
 }
